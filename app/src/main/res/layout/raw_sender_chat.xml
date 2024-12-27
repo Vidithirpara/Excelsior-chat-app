@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_4sdp"
+    android:layout_marginEnd="@dimen/_7sdp"
+    android:maxWidth="@dimen/_300sdp"
+    android:minHeight="@dimen/_25sdp"
+    android:maxHeight="@dimen/_380sdp"
+    android:gravity="end">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:background="@drawable/raw_sender_chat">
+
+        <TextView
+            android:id="@+id/tvMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello"
+            android:layout_gravity="end"
+            android:gravity="end"
+            android:paddingVertical="@dimen/_8sdp"
+            android:paddingHorizontal="@dimen/_10sdp"
+            style="@style/poppinsRegularText"
+            android:layout_marginEnd="@dimen/_7sdp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+</LinearLayout>

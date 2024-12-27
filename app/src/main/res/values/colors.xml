@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#9f9f9f</color>
+    <color name="sky">#4571E4</color>
+    <color name="skyLight">#7A99EA</color>
+    <color name="skyLightchat">#CDD9F6</color>
+    <color name="gray2">#616161</color>
+    <color name="gray3">#C3B9B9</color>
+</resources>
